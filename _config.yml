@@ -1,0 +1,28 @@
+name: jijuyu
+favicon: null
+layout_spectrum: 0.9632162121124566
+typography_spectrum: 0.9002039027400315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.481741749914363
+  lightness: 0.9988420370500535
+  saturation: 0.9436975291464478
+  rhythmicContrast: 0.418473188765347
+purpose: []
